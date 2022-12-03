@@ -1,0 +1,4 @@
+- 👋 Olá, Eu me chamo Fernando Eduardo
+- 👀 Me interesso por Java, HTML, JavaScript.
+- 🌱 Atualmente me engajando em cursos de FullStack
+- 📫 Me contate pelo email Nanduardo20@gmail.com
