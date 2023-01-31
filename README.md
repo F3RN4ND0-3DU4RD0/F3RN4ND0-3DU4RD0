@@ -21,6 +21,6 @@
 <img align="center" alt="Fernando-Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="center" alt="Fernando-Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-  ![Snake animation](https://github.com/F3RN4ND0-3DU4RD0/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/F3RN4ND0-3DU4RD0/F3RN4ND0-3DU4RD0/blob/output/github-contribution-grid-snake.svg)
 
 </div>
