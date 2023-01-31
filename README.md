@@ -24,3 +24,11 @@
   ![Snake animation](https://github.com/F3RN4ND0-3DU4RD0/F3RN4ND0-3DU4RD0/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+<h3>
+  <ul>
+    <li>👨🏽‍💻Amante de tecnologia por natureza, tecnologia é o futuro!</li>
+    <li>💻Meus atuais projetos são em <img align="center" height="20px" widht="20px" alt="Fernando-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> e <img align="center" height="20px" widht="20px" alt="Fernando-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></li>
+    <li>Me interesso por música🎶 e leitura📚</li>
+    <li>Sempre em constante evolução profissional🤓</li>
+  </ul>
+</h3>
