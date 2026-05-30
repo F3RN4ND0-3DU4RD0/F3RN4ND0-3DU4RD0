@@ -4,12 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
 
-<div style="display: inline_block">
-<a href="https://github.com/F3RN4ND0-3DU4RD0">
-<img src="https://github-readme-stats.vercel.app/api?username=F3RN4ND0-3DU4RD0&show_icons=true&theme=transparent" height="180em" alt="Fernando Eduardo Github Stats"/>
-<img alt="Linguagens mais usadas" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3RN4ND0-3DU4RD0&theme=transparent&layout=compact" />
-</div>
-
 ## Tecnologias que utilizo no dia a dia
 <div style="display: inline_block">
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +11,7 @@
   <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fernando-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Fernando-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Fernando-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
   ![Snake animation](https://github.com/F3RN4ND0-3DU4RD0/F3RN4ND0-3DU4RD0/blob/output/github-contribution-grid-snake.svg)
 
